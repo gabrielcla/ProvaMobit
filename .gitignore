@@ -4,5 +4,8 @@
 # Python virtual environment
 venv/
 
+# Imagens da database
+bmw10_release/
 
 yolov8s.pt
+mobilenet_bmw10_classes_3_4_5_outros.pth
